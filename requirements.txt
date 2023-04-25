@@ -25,7 +25,7 @@ kornia==0.5.4
 Markdown==3.3.4
 matplotlib-inline==0.1.2
 multidict==5.1.0
-numpy==1.21.0
+numpy==1.22.0
 oauthlib==3.1.1
 omegaconf==2.1.0
 packaging==20.9
