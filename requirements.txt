@@ -14,7 +14,7 @@ ftfy==6.0.3
 future==0.18.2
 google-auth==1.32.0
 google-auth-oauthlib==0.4.4
-grpcio==1.38.1
+grpcio==1.53.0
 idna==2.10
 imageio==2.9.0
 imageio-ffmpeg==0.4.4
